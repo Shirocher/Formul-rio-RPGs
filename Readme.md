@@ -1,4 +1,4 @@
-# Questionario de RPGs
+# Questionário de RPGs
 
 Nesse projeto eu fiz um pequeno questionário sobre um gênero específico de Jogos, os RPGs, para praticar e também me desafiar fazendo um novo projeto com um assunto que gosto!
 
