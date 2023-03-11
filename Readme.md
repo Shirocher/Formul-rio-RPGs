@@ -1,1 +1,1 @@
-Nesse projeto eu fiz um pequeno questionário sobre um gênero específico de Jogos, os RPGs, para praticar e também me desafiar a um novo projeto
+Nesse projeto eu fiz um pequeno questionário sobre um gênero específico de Jogos, os RPGs, para praticar e também me desafiar fazendo um novo projeto com um assunto que gosto!
